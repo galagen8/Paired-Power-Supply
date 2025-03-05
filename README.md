@@ -7,19 +7,20 @@ Two Adjustable Outputs Power Supply v1.1.
 <img src="https://github.com/user-attachments/assets/61b07306-ab49-456e-8d4a-8f8bada4c23d" width="300">	
 </p>
 
-Input: 
+**Input:**
 </br>
 220-230 Vac
 </br>
 </br>
-Output:
+**Output:**
 </br>
 2 outputs 0.2-40 Volts (Indepedently Adjustable), 4 Amperes for each output maximum.
 </br>
 
-Dimensions:
+**Dimensions:**
 </br>
 255 mm (W) x 136 mm (H) x 205 mm (D).
+</br>
 </br>
 
 Schematic is quite simple:
@@ -50,5 +51,5 @@ Assembly section view:
 <img src="https://github.com/user-attachments/assets/56cf3000-9ced-4304-a4fe-9051f17dc61c" width="500">	
 </p>
 
-
+Module XY-SK35H easy to find on many marketplaces. 
 
