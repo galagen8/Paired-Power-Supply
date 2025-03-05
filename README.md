@@ -14,7 +14,7 @@ Two Adjustable Outputs Power Supply v1.1.
 </br>
 **Output:**
 </br>
-2 outputs 0.2-40 Volts (Indepedently Adjustable), 4 Amperes for each output maximum.
+2 outputs 0.2-30 Volts (Indepedently Adjustable), 4 Amperes for each output maximum.
 </br>
 
 **Dimensions:**
