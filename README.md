@@ -51,5 +51,5 @@ Assembly section view:
 <img src="https://github.com/user-attachments/assets/56cf3000-9ced-4304-a4fe-9051f17dc61c" width="500">	
 </p>
 
-Module XY-SK35H easy to find on many marketplaces. 
+Module XY-SK35H you may find easily on marketplace. 
 
