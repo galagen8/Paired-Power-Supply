@@ -1,6 +1,6 @@
 <h1> Paired Power Supply </h1>
 
-Two Adjustable Outputs Power Supply v1.1.
+Two Adjustable Independent Outputs Power Supply v1.1.
 </br>
 
 <p align="left">	
